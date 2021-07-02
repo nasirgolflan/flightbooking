@@ -1,0 +1,55 @@
+Message-ID: <f71d38b1f29a8ef44fa65331f8b178f1@ecrm.local>
+Date: Sun, 16 May 2021 09:49:59 +0000
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: nasirudin.gh@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1621158599_baf544e3289982fc230dd357703fa837_=_"
+
+
+--_=_swift_1621158599_baf544e3289982fc230dd357703fa837_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello nasir1,
+
+Follow the link below to verify your email:
+
+http=
+://ecrm.local/index.php?r=3Dsite%2Fverify-email&token=3DLnOSMxDC0UHbdLyx0Yi=
+2s1R9huI5jN6W_1621158599
+
+--_=_swift_1621158599_baf544e3289982fc230dd357703fa837_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello nasir1,</p>
+
+    <p>Fol=
+low the link below to verify your email:</p>
+
+    <p><a href=3D"http://=
+ecrm.local/index.php?r=3Dsite%2Fverify-email&amp;token=3DLnOSMxDC0UHbdLyx0Y=
+i2s1R9huI5jN6W_1621158599">http://ecrm.local/index.php?r=3Dsite%2Fverify-em=
+ail&amp;token=3DLnOSMxDC0UHbdLyx0Yi2s1R9huI5jN6W_1621158599</a></p>
+</div=
+>
+    </body>
+</html>
+
+
+--_=_swift_1621158599_baf544e3289982fc230dd357703fa837_=_--
